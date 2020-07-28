@@ -2,12 +2,12 @@
 
 *COVID-19 Sledilnik è un progetto open data e open source che non sarebbe stato realizzabile senza gli innumerevoli commenti ed inserimenti nel database di singoli più o meno anonimi, collaboratori, conoscenti, colleghi e il confronto della comnunità su Slack. GRAZIE!*
 
-Il progetto è "crowdsourced", **chiunque può contribuire** inserendo una nuova fonte o delle informazioni dal proprio ambiente - [aggiungetela semplicemente come commento in qualsiais campo del documento](https://docs.google.com/spreadsheets/d/1N1qLMoWyi3WFGhIpPFzKsFmVE0IwNP3elb_c18t2DwY/edit#gid=0). Saremo entusiasti anche dei dati dagli ospedali, dalla Protezione civile e simili. Saremo felici anche del supporto pubblico nella richiesta di pubblicazione di dati trasparenti e aggiornati.
+Il progetto è "crowdsourced", **chiunque può contribuire** inserendo una nuova fonte o delle informazioni dal proprio ambiente - [aggiungetela semplicemente come commento in qualsiasi campo del documento](https://docs.google.com/spreadsheets/d/1N1qLMoWyi3WFGhIpPFzKsFmVE0IwNP3elb_c18t2DwY/edit#gid=0). Saremo felici anche dei dati dagli ospedali, dalla Protezione civile e simili. Ci fa piacere anche il supporto pubblico nella richiesta di pubblicazione di dati trasparenti e aggiornati.
 
 Hai qualche suggerimento per migliorare la struttura o la forma del documento? Vorresti editare le fonti sul sistema sanitario, il COVID-19 o aiutarci in qualche altra maniera? Scrivici e [avrai i diritti di modifica ](mailto:info@sledilnik.org) del documento.
 Se puoi dedicare al progetto un po' di tempo ogni giorno raggiungici nella nostra [comnunità Slack](https://sledilnik.slack.com). Ulteriori informazioni su info@sledilnik.org.
 
-redatori del database e gli altri colalboratori:
+Redatori del database e altri collaboratori:
 
 -   [Aleks Jakulin](https://twitter.com/aleksj) - coordinamento per i modelli, modelli e fonti
 -   [Andraž Vrhovec](https://github.com/overlordtm) - pagina web, formato CSV
